@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikmathin13
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on free lancing
 - 📫 Reach me on mathin.shaik13@gmail.com
 
 <!---
