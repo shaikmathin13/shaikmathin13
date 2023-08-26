@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
-- 📫 Find me on instagram as @_shaikmathin_
+- 📫 Find me on instagram as @ _shaikmathin_
 
 <!---
 shaikmathin13/shaikmathin13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
